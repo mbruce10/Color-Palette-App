@@ -16,7 +16,7 @@ You may also see any lint errors in the console.
 
 The UI at its starting point
 <p align="center">
-  <img src="https://github.com/mbruce10/Color-Palette-App/blob/main/images/1-ui.png" alt="The UI at its starting point>
+  <img src="https://github.com/mbruce10/Color-Palette-App/blob/main/images/1-ui.png" alt="The UI at its starting point">
 </p>
 
 The UI when hovering over a color
