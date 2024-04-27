@@ -15,7 +15,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/4411121/222522293-ae6f1662-7c61-4dde-8f42-119c51a8606a.png](https://github.com/mbruce10/Color-Palette-App/blob/main/images/1-ui.png)" alt="The UI at its starting point.">
+  <img src="https://github.com/mbruce10/Color-Palette-App/blob/main/images/1-ui.png" alt="The UI at its starting point.">
 </p>
 
 <p align="center">
